@@ -17,6 +17,8 @@ jobs:
   release:
     name: Release product and their build aritfacts
     runs-on: ubuntu-20.04
+    permissions:
+      packages: write
     steps:
       - name: Check out content from the Git repository
         uses: actions/checkout@v4

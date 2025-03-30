@@ -1,4 +1,4 @@
-# Container deployment of GitLab Runner
+# Container deployment of GitLab Runner (IN DEVELOPMENT)
 
 Rapidly deploy a GitLab Runner that meets your needs.
 

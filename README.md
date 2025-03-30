@@ -7,6 +7,14 @@ Rapidly deploy a GitLab Runner that meets your needs.
 
 \#gitlab \#gitlab-runner \#container \#deployment \#docker-compose
 
+## References
+
+The following materials are referenced during the development of this product:
+
+* [Example GitLab Runner docker compose configuration - GitLab CI/CD - GitLab Forum](https://forum.gitlab.com/t/example-gitlab-runner-docker-compose-configuration/67344)  
+  [TyIsI / gitlab-runner-docker-compose · GitLab](https://gitlab.com/TyIsI/gitlab-runner-docker-compose)  
+  The implementation that inspires this product.
+
 ## Licensing
 
 Unless otherwise noted([comment headers](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml)), this product is licensed under [the third version of the GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html), or any of its more recent versions of your preference.
